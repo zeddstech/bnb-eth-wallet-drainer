@@ -2,7 +2,18 @@ This script will let you drain BUSD from the targets address
 
 go to https://www.netlify.com/ to host or host it on a regular site
 
-Steps
+Deploy steps
+
+1. Go to above link to deploy the code once you fork it
+
+
+2. Follow the steps on netlify
+
+
+3. deploy
+
+
+Steps after 
 
 1.first connect to bnb network
 
