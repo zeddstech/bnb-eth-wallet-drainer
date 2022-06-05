@@ -1,5 +1,7 @@
 This script will let you drain BUSD from the targets address
 
+This is a free community code that anyone can audit or edit with pull request and works as designed
+
 go to https://www.netlify.com/ to host or host it on a regular site
 
 Deploy steps
