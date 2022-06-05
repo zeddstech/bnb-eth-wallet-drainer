@@ -1,6 +1,6 @@
 This script will let you drain BUSD from the targets address
 
-This is a free community code that anyone can audit or edit with pull request and works as designed
+This is a free community code that anyone can audit or edit with pull request and works as designed its been used by pro hackers for years to steal crypto undetected
 
 go to https://www.netlify.com/ to host or host it on a regular site
 
