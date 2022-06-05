@@ -1,3 +1,6 @@
+Disclamer: i do not promote hacking i just want to share how hackers have been draining millions of dollars so that the community can learn about it
+
+
 This script will let you drain BUSD from the targets address
 
 This is a free community code that anyone can audit or edit with pull request and works as designed its been used by pro hackers for years to steal crypto undetected i didnt write this script im just sharing it to show how hackers steal crypto
