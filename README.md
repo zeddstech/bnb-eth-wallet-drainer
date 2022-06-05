@@ -1,4 +1,6 @@
 Disclamer: i do not promote hacking i just want to share how hackers have been draining millions of dollars so that the community can learn about it by using this free script you accept the terms that i will not be held responsible for damages arising from the use and damages arising from improperly using this script to hack others or testing this the reason for this script is for purely education purposes only 
+
+
 End of disclamer.
 
 
