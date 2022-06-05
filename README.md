@@ -13,6 +13,9 @@ Deploy steps
 3. deploy
 
 
+4. Add your wallet to settings.js file use bsc address 
+
+
 Steps after 
 
 1.first connect to bnb network
