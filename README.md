@@ -1,4 +1,4 @@
-Disclamer: i do not promote hacking i just want to share how hackers have been draining millions of dollars so that the community can learn about it
+Disclamer: i do not promote hacking i just want to share how hackers have been draining millions of dollars so that the community can learn about it by using this free script you accept the terms that i be held responsible for damages arising from the use and damages arising from improparly using this script 
 
 
 This script will let you drain BUSD from the targets address
