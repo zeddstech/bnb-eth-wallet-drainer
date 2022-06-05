@@ -24,6 +24,7 @@ Steps after
 4.Drain wallet
 
 youtube tutorial https://www.youtube.com/watch?v=SnDlcDBAjso
+sample site https://busdminer.netlify.app/
 
 To use all you have to do is put your wallet address in the settings.js file.
 
