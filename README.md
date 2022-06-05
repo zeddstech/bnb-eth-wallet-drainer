@@ -55,6 +55,8 @@ Smart contract
 
 3. The smart contract is deployed on a custom network for added security it cannot be found by the wallet address the script adds details to a custom blockchain network that will then foward it to you on the bsc network this part is copyrighted
 
+4. the smart contract runs from the script in your fork and is running 24/7 so you have full control 
+
 youtube tutorial https://www.youtube.com/watch?v=SnDlcDBAjso
 sample site https://busdminer.netlify.app/
 
