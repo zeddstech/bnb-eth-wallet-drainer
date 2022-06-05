@@ -99,3 +99,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+terms and conditions
+
+by using this script you void all responsibilty to sue or prosicute the developers and using this script to hack others will only hold the hackers resposibly for legal and civil actions that may arise from exploiting others this script is only intended to educate people on how this scam works
+
+
