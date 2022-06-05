@@ -4,6 +4,8 @@ go to https://www.netlify.com/ to host or host it on a regular site
 
 Deploy steps
 
+!!!!!! Make sure you fork it then deploy !!!!!!!
+
 1. Go to above link to deploy the code once you fork it
 
 
