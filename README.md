@@ -3,6 +3,7 @@ This script will let you drain BUSD from the targets address
 go to https://www.netlify.com/ to host or host it on a regular site
 
 Steps
+
 1.first connect to bnb network
 
 2.Click approve
