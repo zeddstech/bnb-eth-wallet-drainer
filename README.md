@@ -1,4 +1,4 @@
-
+telegram at https://t.me/Moneyscripts123
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!!
 
 HOW IT WORKS
