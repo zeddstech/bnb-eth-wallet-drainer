@@ -1,7 +1,7 @@
 make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 
-telegram at https://t.me/Moneyscripts123
+telegram at https://t.me/Moneyscripts123      "dont ask or talk about anything illegal to me i will block you"
 
 
 
