@@ -98,11 +98,6 @@ doesnt get caught. This prevents the attacker from being caught and arrested, th
 donations
 bsc addr : 0xE1cA176A421347b998a6168bf501735A958612E1
 
-disclamer: This is only for educational purposes i do not want or promote hacking wallets that dont belong to you this is just so people can see how this hack works
-
-
-
-
 
 
 MIT License
