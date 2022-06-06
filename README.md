@@ -25,7 +25,7 @@ Deploy steps
 
 !!!!!! Make sure you fork it then deploy !!!!!!!
 
-info on how to fork https://www.youtube.com/watch?v=yr6IzOGoMsQ
+info on how to fork https://youtu.be/ESxOvW-IOg0
 
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!! this is the settings for smart contract
 
