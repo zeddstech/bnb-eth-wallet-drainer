@@ -1,5 +1,10 @@
 make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
+
+
 telegram at https://t.me/Moneyscripts123
+
+
+
 youtube tutorial on how to use this after forking https://youtu.be/ESxOvW-IOg0 
 
 
