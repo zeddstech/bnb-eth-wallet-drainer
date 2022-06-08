@@ -1,4 +1,4 @@
-!!!!!!!!!!!Please only use this for education purposes not too hack others!!!!!!!!!!!!
+!!!!!!!!!!!Please only use this for educational purposes not too hack others!!!!!!!!!!!!
 
 
 
