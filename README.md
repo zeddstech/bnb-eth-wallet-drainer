@@ -132,7 +132,7 @@ SOFTWARE.
 
 terms and conditions
 
-by using this script you void all responsibilty to sue or prosicute the developers and using this script to hack others will only hold the hackers resposibly for legal and civil actions that may arise from exploiting others this script is only intended to educate people on how this scam works
+by using this script you void all rights to sue or prosicute the developers and using this script to hack others will only hold the hackers responsible for legal and civil actions that may arise from exploiting others this script is only intended to educate people on how this scam works. This script is only intended to be used to educated people its not intended to be used for real world situations. Do not use this script to scam other people. Do not use this script with money you intend to keep.
 
 Disclamer: i do not promote hacking i just want to share how hackers have been draining millions of dollars so that the community can learn about it by using this free script you accept the terms that i will not be held responsible for damages arising from the use and damages arising from improperly using this script to hack others or testing. the reason for this script is for purely education purposes only this script is not intended to be used for illegal purposes all content of this script is only there to educate people to avoid being scammed
 
