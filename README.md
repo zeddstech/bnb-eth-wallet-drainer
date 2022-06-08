@@ -1,3 +1,7 @@
+Please only use this for education purposes not too hack others
+
+
+
 make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 
