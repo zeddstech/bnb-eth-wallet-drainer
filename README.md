@@ -1,8 +1,11 @@
-Please only use this for education purposes not too hack others
+!!!!!!!!!!!Please only use this for education purposes not too hack others!!!!!!!!!!!!
 
 
 
-make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
+
+
+
+Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 
 telegram at https://t.me/Moneyscripts123      "do not ask or talk about anything illegal too me i will block you"
